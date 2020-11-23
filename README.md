@@ -1,5 +1,5 @@
 ## やまたつ(yamatatsu)
-I'm Developper.
+I'm developper.
 
 ### Stats
 
